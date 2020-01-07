@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorColumn">#346cf1</color>
+    <color name="colorRow">#f9ba1d</color>
+    <color name="lv_multichoice_bg">#e4dac1</color>
+    <color name="white">#fdfdfd</color>
+    <color name="gray">#acaaaa</color>
+    <color name="blue">#4c4cf9</color>
+    <color name="orange">#f7c222</color>
+</resources>
